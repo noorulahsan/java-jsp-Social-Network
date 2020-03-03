@@ -1,2 +1,2 @@
 # java-jsp-Social-Network
-Create database using the the file Query
+Create database using the file Query
